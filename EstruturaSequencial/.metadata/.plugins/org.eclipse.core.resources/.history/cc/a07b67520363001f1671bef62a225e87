@@ -1,0 +1,7 @@
+
+public class LerVariosDadosMesmaLinha {
+	public static void main(String[] args) {
+		SCanner sc = new Scanner(System.in);
+		sc.close()
+	}
+}

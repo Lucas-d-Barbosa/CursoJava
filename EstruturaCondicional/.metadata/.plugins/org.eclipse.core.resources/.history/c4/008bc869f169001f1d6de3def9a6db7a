@@ -1,0 +1,18 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Main01 {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner input = new Scanner(System.in);
+		int minutes = input.nextInt();
+		double conta = 50;
+		double surplus = minutes % 100;
+		double total = minutes 
+				> 100 
+				? conta + surplus : conta ;
+		System.out.println("Amount to pay: R$ " +total);
+	}
+
+}

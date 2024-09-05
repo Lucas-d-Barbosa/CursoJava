@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/lucas/Documentos/CursoJava/PrimeiroPrograma/.metadata/.plugins/org.eclipse.jdt.core
+900586112.index
+1865797976.index
+4071426965.index

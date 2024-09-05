@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class LerNumDouble {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		Double x = sc.nextDouble();
+		System.out.println("Número inteiro digitado: " + x);
+		sc.close();
+	}
+
+}

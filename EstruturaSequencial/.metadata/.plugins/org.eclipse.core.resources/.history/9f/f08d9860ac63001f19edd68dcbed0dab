@@ -1,0 +1,15 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class SextoExercicioIniciantes {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner input = new Scanner(System.in);
+		double a, b, c, areaTriangulo, areaCirculo, areaTrapezio, areaQuadrado, areaRetangulo;
+		
+		input.close();
+
+	}
+
+}

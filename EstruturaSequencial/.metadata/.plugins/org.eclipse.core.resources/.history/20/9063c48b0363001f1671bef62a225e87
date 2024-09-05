@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class LerVariosDadosMesmaLinha {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int idade;
+		double salario;
+		String nome;
+		char caracter;
+		
+		
+		
+		sc.close();
+	}
+}

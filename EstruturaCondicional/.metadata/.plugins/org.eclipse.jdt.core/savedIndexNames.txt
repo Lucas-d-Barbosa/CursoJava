@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+/home/lucas/Documentos/CursoJava/EstruturaCondicional/.metadata/.plugins/org.eclipse.jdt.core
+1057393555.index
+2788564919.index
+2446697997.index
+534651842.index
+4254454082.index
+1865797976.index

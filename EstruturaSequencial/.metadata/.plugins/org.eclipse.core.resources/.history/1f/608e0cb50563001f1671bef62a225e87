@@ -1,0 +1,9 @@
+import java.math.*;
+public class AlgumasFuncoesMatematicas {
+
+	public static void main(String[] args) {
+		double a = Math.pow(2,2)
+
+	}
+
+}

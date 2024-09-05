@@ -1,0 +1,16 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class QuartoExercicioIniciantes {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner input = new Scanner(System.in);
+		int EmployeeNumber;
+		int hoursWorked;
+		double valuePerHours;
+		
+		input.close();
+	}
+
+}

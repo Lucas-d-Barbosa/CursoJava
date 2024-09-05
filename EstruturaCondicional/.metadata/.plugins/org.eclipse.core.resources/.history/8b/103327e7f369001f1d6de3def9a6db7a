@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class Main02SwitchCase {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int day = 0;
+		day = input.nextInt();
+		switch(day) {
+			case 1:
+				
+		}
+		input.close();
+	}
+}

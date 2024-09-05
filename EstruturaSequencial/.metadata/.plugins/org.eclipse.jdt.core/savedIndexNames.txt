@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+/home/lucas/Documentos/CursoJava/EstruturaSequencial/.metadata/.plugins/org.eclipse.jdt.core
+4227316683.index
+4182732564.index
+3556923094.index
+3054926374.index
+900586112.index
+1865797976.index
+977439114.index
+2103245585.index

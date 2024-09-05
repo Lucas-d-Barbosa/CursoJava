@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class Exercicio04 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int startTime;
+		int finalTime;
+		
+		startTime = input.nextInt();
+		finalTime = input.nextInt();
+		
+		if(startTime == finalTime)
+			System.out.println("The game lasted 24 hours");
+		else if(startTime > finalTime)
+			System.out.println("The game lasted " + ((24- startTime)  + " hours");
+		
+		input.close();
+	}
+
+}
