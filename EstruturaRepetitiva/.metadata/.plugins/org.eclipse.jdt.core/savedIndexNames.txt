@@ -1,4 +1,8 @@
 INDEX VERSION 1.134+/home/lucas/Documentos/CursoJava/EstruturaRepetitiva/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
+730762545.index
+3275442034.index
+3929930245.index
 1679900171.index
+417894223.index
+1865797976.index
 4285918794.index
